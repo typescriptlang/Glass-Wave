@@ -1,7 +1,7 @@
-@import url(/Glass-Wave/Addons/StatusPicker.css);
-@import url(/Glass-Wave/Addons/ChatBubbles.css);
-@import url(/Glass-Wave/Addons/Icons.css);
-@import url(/Glass-Wave/Addons/Animations.css);
+@import url(/Glass-Wave/blob/master/Addons/StatusPicker.css);
+@import url(/Glass-Wave/blob/master/Addons/ChatBubbles.css);
+@import url(/Glass-Wave/blob/master/Addons/Icons.css);
+@import url(/Glass-Wave/blob/master/Addons/Animations.css);
 
 :root {
     --var-background: linear-gradient(138deg, rgba(162,247,220,1) 0%, rgba(18,145,187,1) 80%, rgba(35,108,179,1) 100%);
