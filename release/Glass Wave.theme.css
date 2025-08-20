@@ -9,3 +9,14 @@
 
 /* Discord Theme import */
 @import url(https://elisniper.github.io/Glass-Wave/release/import.css);
+
+:root {
+  --var-background: url('https://files.catbox.moe/1ikk45.png');
+  --var-background-size: cover;
+  --var-background-position: center;
+  --var-accent: #431616;
+  --var-popout-color: rgb(29,29,29);
+  --var-chat-bubbles-background: #000000A1;
+  --var-chat-mentioned: #060606AD;
+  --var-font: gg sans;
+}
