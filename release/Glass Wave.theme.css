@@ -8,7 +8,7 @@
 */
 
 /* Discord Theme import */
-@import url(https://elisniper.github.io/Glass-Wave/release/import.css);
+@import url(https://github.com/typescriptlang/Glass-Wave/blob/master/release/import.css);
 
 :root {
   --var-background: url('https://files.catbox.moe/1ikk45.png');
